@@ -1,7 +1,7 @@
 # Matrix Completion in the Unit Hypercube via Structured Matrix Factorization
 
 This is the implementation of the approaches described in the paper:
-> Emanuele Bugliarello, Swayambhoo Jain, and Vineeth Rakesh. [Matrix Completion in the Unit Hypercube via Structured Matrix Factorization](https://github.com/e-bug/unit-mf). In Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI-19), August 2019.
+> Emanuele Bugliarello, Swayambhoo Jain, and Vineeth Rakesh. [Matrix Completion in the Unit Hypercube via Structured Matrix Factorization](https://arxiv.org/abs/1905.12881). In Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI-19), August 2019.
 
 We provide the code for reproducing our results, as well as pre-trained models for the Click-Through Rate (CTR) data.
 
@@ -44,7 +44,6 @@ This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/
 Third-party datasets are subject to their respective licenses. <br>
 If you find our code/models or ideas useful in your research, please consider citing the paper:
 ```
-
 @inproceedings{Bugliarello:IJCAI2019,
   title     = {Matrix Completion in the Unit Hypercube via Structured Matrix Factorization},
   author    = {Emanuele Bugliarello and Swayambhoo Jain and Vineeth Rakesh},

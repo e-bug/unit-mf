@@ -44,14 +44,16 @@ This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/
 Third-party datasets are subject to their respective licenses. <br>
 If you find our code/models or ideas useful in your research, please consider citing the paper:
 ```
-@inproceedings{Bugliarello:IJCAI2019,
+@inproceedings{Bugliarello+:IJCAI2019,
   title     = {Matrix Completion in the Unit Hypercube via Structured Matrix Factorization},
-  author    = {Emanuele Bugliarello and Swayambhoo Jain and Vineeth Rakesh},
+  author    = {Bugliarello, Emanuele and Jain, Swayambhoo and Rakesh, Vineeth},
   booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI-19}},
   publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  pages     = {{to appear}},
+  pages     = {2038--2044},
   year      = {2019},
-  month     = {8},
+  month     = {7},
   location  = {Macao, China},
+  doi       = {10.24963/ijcai.2019/282},
+  url       = {https://doi.org/10.24963/ijcai.2019/282},
 }
 ```

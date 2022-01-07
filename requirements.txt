@@ -1,5 +1,5 @@
 certifi==2019.3.9
-cvxopt==1.2.3
+cvxopt==1.2.7
 dill==0.2.9
 mkl-fft==1.0.6
 mkl-random==1.0.1
